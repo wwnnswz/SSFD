@@ -55,7 +55,7 @@ the network on the target noisy observation.
 
 Please download the standard HSI datasets (e.g., Pavia University, Washington DC Mall) 
 and place the .mat files in the data/ folder as follows:
-
+https://pan.baidu.com/s/1X1sMZQOOUfW0TRaiLJ_jfQ?pwd=gsfg
 
 ## 💻 Usage
 
